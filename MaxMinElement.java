@@ -12,3 +12,6 @@ public static void main(String[] args) {
     System.out.println(max);
 }
 }
+
+// git commit -m "initial commit"
+// git push origin main
